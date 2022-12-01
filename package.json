@@ -1,0 +1,19 @@
+{
+  "name": "fashionverse",
+  "version": "1.0.0",
+  "description": "Fashion Market on the blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maverickodeer/Fashionverse.git"
+  },
+  "author": "Maverickodeer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maverickodeer/Fashionverse/issues"
+  },
+  "homepage": "https://github.com/maverickodeer/Fashionverse#readme"
+}
